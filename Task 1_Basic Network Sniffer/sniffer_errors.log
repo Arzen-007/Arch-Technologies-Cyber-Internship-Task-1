@@ -1,0 +1,65 @@
+2025-07-10 17:29:57,002 - INFO - [2025-07-10 17:29:56] Captured: Source IP: 192.168.66.129 -> Destination IP: 23.215.0.138 | Protocol: 6
+2025-07-10 17:29:57,002 - WARNING - [2025-07-10 17:29:56] External IP detected: 192.168.66.129 -> 23.215.0.138
+2025-07-10 17:29:57,003 - INFO - [2025-07-10 17:29:56] TCP Payload: Empty
+2025-07-10 17:29:57,230 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 23.215.0.138 -> Destination IP: 192.168.66.129 | Protocol: 6
+2025-07-10 17:29:57,231 - WARNING - [2025-07-10 17:29:57] External IP detected: 23.215.0.138 -> 192.168.66.129
+2025-07-10 17:29:57,231 - INFO - [2025-07-10 17:29:57] TCP Payload: Padding
+2025-07-10 17:29:57,232 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.168.66.129 -> Destination IP: 23.215.0.138 | Protocol: 6
+2025-07-10 17:29:57,233 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.168.66.129 -> 23.215.0.138
+2025-07-10 17:29:57,233 - INFO - [2025-07-10 17:29:57] TCP Payload: Empty
+2025-07-10 17:29:57,234 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.168.66.129 -> Destination IP: 23.215.0.138 | Protocol: 6
+2025-07-10 17:29:57,234 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.168.66.129 -> 23.215.0.138
+2025-07-10 17:29:57,234 - INFO - [2025-07-10 17:29:57] TCP Payload: Raw
+2025-07-10 17:29:57,234 - INFO - [2025-07-10 17:29:57] Raw HTTP Data: b'GET / HTTP/1.1\r\nHost: example.com\r\nUser-Agent: curl/8.13.0\r\nAccept: */*\r\n\r\n'
+2025-07-10 17:29:57,235 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 23.215.0.138 -> Destination IP: 192.168.66.129 | Protocol: 6
+2025-07-10 17:29:57,235 - WARNING - [2025-07-10 17:29:57] External IP detected: 23.215.0.138 -> 192.168.66.129
+2025-07-10 17:29:57,236 - INFO - [2025-07-10 17:29:57] TCP Payload: Padding
+2025-07-10 17:29:57,460 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 23.215.0.138 -> Destination IP: 192.168.66.129 | Protocol: 6
+2025-07-10 17:29:57,460 - WARNING - [2025-07-10 17:29:57] External IP detected: 23.215.0.138 -> 192.168.66.129
+2025-07-10 17:29:57,460 - INFO - [2025-07-10 17:29:57] TCP Payload: Raw
+2025-07-10 17:29:57,460 - INFO - [2025-07-10 17:29:57] Raw HTTP Data: b'HTTP/1.1 200 OK\r\nContent-Type: text/html\r\nETag: "84238dfc8092e5d9c0dac8ef93371a07:1736799080.1
+2025-07-10 17:29:57,461 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.168.66.129 -> Destination IP: 23.215.0.138 | Protocol: 6
+2025-07-10 17:29:57,461 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.168.66.129 -> 23.215.0.138
+2025-07-10 17:29:57,461 - INFO - [2025-07-10 17:29:57] TCP Payload: Empty
+2025-07-10 17:29:57,462 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 23.215.0.138 -> Destination IP: 192.168.66.129 | Protocol: 6
+2025-07-10 17:29:57,462 - WARNING - [2025-07-10 17:29:57] External IP detected: 23.215.0.138 -> 192.168.66.129
+2025-07-10 17:29:57,463 - INFO - [2025-07-10 17:29:57] TCP Payload: Raw
+2025-07-10 17:29:57,463 - INFO - [2025-07-10 17:29:57] Raw HTTP Data: b'ample">More information...</a></p>\n</div>\n</body>\n</html>\n'
+2025-07-10 17:29:57,464 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.168.66.129 -> Destination IP: 23.215.0.138 | Protocol: 6
+2025-07-10 17:29:57,464 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.168.66.129 -> 23.215.0.138
+2025-07-10 17:29:57,464 - INFO - [2025-07-10 17:29:57] TCP Payload: Empty
+2025-07-10 17:29:57,465 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.168.66.129 -> Destination IP: 23.215.0.138 | Protocol: 6
+2025-07-10 17:29:57,465 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.168.66.129 -> 23.215.0.138
+2025-07-10 17:29:57,465 - INFO - [2025-07-10 17:29:57] TCP Payload: Empty
+2025-07-10 17:29:57,465 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 23.215.0.138 -> Destination IP: 192.168.66.129 | Protocol: 6
+2025-07-10 17:29:57,465 - WARNING - [2025-07-10 17:29:57] External IP detected: 23.215.0.138 -> 192.168.66.129
+2025-07-10 17:29:57,466 - INFO - [2025-07-10 17:29:57] TCP Payload: Padding
+2025-07-10 17:29:57,536 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.168.66.129 -> Destination IP: 192.178.24.238 | Protocol: 6
+2025-07-10 17:29:57,536 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.168.66.129 -> 192.178.24.238
+2025-07-10 17:29:57,536 - INFO - [2025-07-10 17:29:57] TCP Payload: Empty
+2025-07-10 17:29:57,579 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.178.24.238 -> Destination IP: 192.168.66.129 | Protocol: 6
+2025-07-10 17:29:57,579 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.178.24.238 -> 192.168.66.129
+2025-07-10 17:29:57,580 - INFO - [2025-07-10 17:29:57] TCP Payload: Padding
+2025-07-10 17:29:57,580 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.168.66.129 -> Destination IP: 192.178.24.238 | Protocol: 6
+2025-07-10 17:29:57,581 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.168.66.129 -> 192.178.24.238
+2025-07-10 17:29:57,581 - INFO - [2025-07-10 17:29:57] TCP Payload: Empty
+2025-07-10 17:29:57,585 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.168.66.129 -> Destination IP: 192.178.24.238 | Protocol: 6
+2025-07-10 17:29:57,585 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.168.66.129 -> 192.178.24.238
+2025-07-10 17:29:57,585 - INFO - [2025-07-10 17:29:57] TCP Payload: Raw
+2025-07-10 17:29:57,585 - INFO - [2025-07-10 17:29:57] Raw TLS Data: b'\x16\x03\x01\x06\x9c\x01\x00\x06\x98\x03\x03DE\x18z9\x02RV\xeb\xdd\xf6)\xbd\x08q>\xb3.8}\x93\xd7Aj
+2025-07-10 17:29:57,587 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.168.66.129 -> Destination IP: 192.178.24.238 | Protocol: 6
+2025-07-10 17:29:57,587 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.168.66.129 -> 192.178.24.238
+2025-07-10 17:29:57,588 - INFO - [2025-07-10 17:29:57] TCP Payload: Raw
+2025-07-10 17:29:57,588 - INFO - [2025-07-10 17:29:57] Raw TLS Data: b'\xea\x06\x15\xea=\xe7\x18\xb7\x8d\xc7\x051\xd4\\\xa1I>\x1b\xd5\x181\xe0"\x9c\x82\x87\xd4\xb7)S\xc1
+2025-07-10 17:29:57,589 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.178.24.238 -> Destination IP: 192.168.66.129 | Protocol: 6
+2025-07-10 17:29:57,589 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.178.24.238 -> 192.168.66.129
+2025-07-10 17:29:57,589 - INFO - [2025-07-10 17:29:57] TCP Payload: Padding
+2025-07-10 17:29:57,589 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.178.24.238 -> Destination IP: 192.168.66.129 | Protocol: 6
+2025-07-10 17:29:57,590 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.178.24.238 -> 192.168.66.129
+2025-07-10 17:29:57,590 - INFO - [2025-07-10 17:29:57] TCP Payload: Padding
+2025-07-10 17:29:57,737 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 23.215.0.138 -> Destination IP: 192.168.66.129 | Protocol: 6
+2025-07-10 17:29:57,737 - WARNING - [2025-07-10 17:29:57] External IP detected: 23.215.0.138 -> 192.168.66.129
+2025-07-10 17:29:57,738 - INFO - [2025-07-10 17:29:57] TCP Payload: Padding
+2025-07-10 17:29:57,738 - INFO - [2025-07-10 17:29:57] Captured: Source IP: 192.168.66.129 -> Destination IP: 23.215.0.138 | Protocol: 6
+2025-07-10 17:29:57,739 - WARNING - [2025-07-10 17:29:57] External IP detected: 192.168.66.129 -> 23.215.0.138
+2025-07-10 17:29:57,739 - INFO - [2025-07-10 17:29:57] TCP Payload: Empty
